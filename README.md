@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Rayan Labyb (RayCode-ART on Github) 👋
 
-Welcome to my GitHub profile! I'm a passionate [your profession or area of interest] who loves working on cool projects with the latest tech! 💻✨
+Welcome to my GitHub profile! I'm a passionate in contibuting to open source who loves working on cool projects with the latest tech! 💻✨
 
 ## 🔧 Technologies & Tools
 - 🌐 Frontend: React, React Native, JavaScript, HTML, CSS, Tailwind CSS
